@@ -13,6 +13,7 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: "45b5f66b8d9abd6c9f67eed2cec0af61",
   TEHPLATE_ID:"Mo1MuGIw-0-2O_FqLlS58NiMd_5ThBrGq_ZdK_6KtWU",
+  USERS:["of37a6aelOJyTCM9dbEzAGfI083Q"]
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
   IS_SHOW_COLOR: true,
