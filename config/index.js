@@ -13,7 +13,7 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: "45b5f66b8d9abd6c9f67eed2cec0af61",
   TEHPLATE_ID:"Mo1MuGIw-0-2O_FqLlS58NiMd_5ThBrGq_ZdK_6KtWU",
-  USERS:["of37a6aelOJyTCM9dbEzAGfI083Q"]
+  USERS:["of37a6aelOJyTCM9dbEzAGfI083Q"],
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
   IS_SHOW_COLOR: true,
@@ -61,7 +61,7 @@ export const config = {
   USERS: ["of37a6aelOJyTCM9dbEzAGfI083Q"
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "恒崽崽",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "of37a6aelOJyTCM9dbEzAGfI083Q
 ",
@@ -70,7 +70,7 @@ export const config = {
       // 所在省份
       province: "广东",
       // 所在城市
-      city: "肇庆",
+      city: "深圳",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
