@@ -62,7 +62,8 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "of37a6aelOJyTCM9dbEzAGfI083Q
+",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "",
       // 所在省份
@@ -84,7 +85,8 @@ export const config = {
         {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
         {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
       ],
-      // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
+      // 专属纪念日/倒数
+日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
         {"keyword": "love_day", date: "2022-09-08"},
